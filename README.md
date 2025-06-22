@@ -2,7 +2,7 @@ A simple, functional calculator with a graphical user interface built using Pyth
 
 ## Description
 
-`simple-calc` is a desktop calculator application that supports basic arithmetic operations. It features a clean, responsive layout and handles common user inputs and errors gracefully. The application is contained within a single Python script, making it lightweight and easy to run.
+`simple-calc` is a desktop calculator application that supports basic arithmetic operations. It features a simple, responsive layout and handles common user inputs and errors successfully. The application is contained within a single Python script, making it lightweight and easy to run.
 
 ## Features
 *   **Basic Arithmetic:** Perform addition (`+`), subtraction (`-`), multiplication (`×`), and division (`÷`).
